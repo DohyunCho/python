@@ -1,3 +1,4 @@
+# pip install python-binance
 import time
 import binance
 from binance.client import Client
